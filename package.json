@@ -1,39 +1,38 @@
 {
-    "name": "dreamweaver-dark-theme",
-    "displayName": "Dreamweaver Dark Theme",
-    "description": "Dreamweaver Dark Theme. Focused on color scheme for PHP, JS, HTML and CSS at the moment.",
-    "version": "0.0.8",
-    "publisher": "Gaga-Dev",
-    "icon": "images/icon.png",
-    "pricing": "Free",
-      "keywords": [
-          "dark",
-          "dark theme",
-          "dreamweaver"
-      ],
-        "repository": {
-      "type": "git",
-      "url": "https://github.com/forumwt/Dreamweaver-Dark-Theme"
-    },
-    "engines": {
-      "vscode": "^1.81.0"
-    },
-    "categories": [
-      "Themes"
-    ],
-    "contributes": {
-      "themes": [
-              {
-                  "label": "Dreamweaver Dark Theme",
-                  "uiTheme": "vs-dark",
-                  "path": "./themes/Dreamweaver Dark Theme-color-theme.json"
-              },
-              {
-                  "label": "Dreamweaver Dark Theme (Night)",
-                  "uiTheme": "vs-dark",
-                  "path": "./themes/Dreamweaver Dark Theme-color-theme-night.json"
-              }
-          ]
-    }
+  "name": "dreamweaver-dark-theme",
+  "displayName": "Dreamweaver Dark Theme",
+  "description": "Dreamweaver Dark Theme. Focused on color scheme for PHP, JS, HTML and CSS at the moment.",
+  "version": "0.0.9",
+  "publisher": "Gaga-Dev",
+  "icon": "images/icon.png",
+  "pricing": "Free",
+	"keywords": [
+		"dark",
+		"dark theme",
+		"dreamweaver"
+	],
+	  "repository": {
+    "type": "git",
+    "url": "https://github.com/forumwt/Dreamweaver-Dark-Theme"
+  },
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+			{
+				"label": "Dreamweaver Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dreamweaver Dark Theme-color-theme.json"
+			},
+			{
+				"label": "Dreamweaver Dark Theme (Night)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dreamweaver Dark Theme-color-theme-night.json"
+			}
+		]
   }
-  
+}
