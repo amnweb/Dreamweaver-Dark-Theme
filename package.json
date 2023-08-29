@@ -2,7 +2,7 @@
    "name":"dreamweaver-dark-theme",
    "displayName":"Dreamweaver Dark Theme",
    "description":"Dreamweaver Dark Theme. Focused on color scheme for PHP, JS, HTML and CSS at the moment.",
-   "version":"0.0.9",
+   "version":"0.1.0",
    "publisher":"Gaga-Dev",
    "icon":"images/icon.png",
    "pricing":"Free",
@@ -32,6 +32,11 @@
             "label":"Dreamweaver Dark Theme (Night)",
             "uiTheme":"vs-dark",
             "path":"./themes/Dreamweaver Dark Theme-color-theme-night.json"
+         },
+         {
+            "label":"Dreamweaver Dark Theme Modern",
+            "uiTheme":"vs-dark",
+            "path":"./themes/Dreamweaver Dark Theme-color-theme-modern.json"
          }
       ]
    }

@@ -1,1 +1,1 @@
-Added new colors
+Added Dark modern color scheme
