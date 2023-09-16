@@ -28,4 +28,4 @@ If you find any issues with the theme or have suggestions for improvement, pleas
 
 ## License
 
-This theme is licensed under the [MIT License](LICENSE).
+This theme is licensed under the [MIT License](https://github.com/forumwt/Dreamweaver-Dark-Theme/blob/main/LICENSE.txt).
