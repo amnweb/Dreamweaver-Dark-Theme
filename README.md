@@ -2,7 +2,7 @@
 
 This is a Visual Studio Code (VSCode) theme that mimics the look and feel of Adobe Dreamweaver's dark theme. It provides a sleek and professional coding environment for web developers.
 
-`Focused on color scheme for PHP, JS, HTML and CSS at the moment.!`
+`Currently focused on color schemes for PHP, JavaScript (JS), HTML, and CSS.`
 
 Recommended Editor Font **Source Code Pro**
 
